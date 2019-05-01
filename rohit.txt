@@ -1,1 +1,3 @@
 this is rohit devops3 git initilize
+this is my name manoj kr.
+this is git software practice
